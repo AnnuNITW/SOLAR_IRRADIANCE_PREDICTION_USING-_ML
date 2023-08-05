@@ -45,9 +45,6 @@ We can perform Feature selection using these 3 techniques
 ![image](https://github.com/AnnuNITW/solar-irradiance-prediction-/assets/115100166/ba960c44-3f53-45c0-8f2a-b084f38b8713)
 
 
-![image](https://github.com/AnnuNITW/solar-irradiance-prediction-/assets/115100166/a69affe4-ee2f-476e-bb75-010cb8fe603c)
-
-
 
 Using SelectKBest Method:
 ![image](https://github.com/AnnuNITW/solar-irradiance-prediction-/assets/115100166/2e890895-877f-48bd-8240-0ca793515dd3)
