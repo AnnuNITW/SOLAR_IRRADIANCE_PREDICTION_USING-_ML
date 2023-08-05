@@ -66,9 +66,11 @@ Then we’ll prepare the data:
 
 Standardization , Train Test Split , Modelling
 
-The first prediction will be done using XGBoost:
+The first prediction will be done using Decision Tree got R2_Score 0.8736911151555846 .
+then Random Forest got R2_Score 0.9231305190160974
+then XG Boost got R2_Score 0.93.
 
-![image](https://github.com/AnnuNITW/solar-irradiance-prediction-/assets/115100166/b7f2d533-7010-4e03-b76b-f8799e6fdd4a)
+Finally , I predicted good Target result using Decision Tree,Random Forest,XG Boost .
 
 
 
