@@ -66,8 +66,8 @@ Then we’ll prepare the data:
 
 Standardization , Train Test Split , Modelling
 
-The first prediction will be done using Decision Tree got R2_Score 0.8736911151555846 .
-then Random Forest got R2_Score 0.9231305190160974
+The first prediction will be done using Decision Tree got R2_Score 0.87 .
+then Random Forest got R2_Score 0.92
 then XG Boost got R2_Score 0.93.
 
 Finally , I predicted good Target result using Decision Tree,Random Forest,XG Boost .
