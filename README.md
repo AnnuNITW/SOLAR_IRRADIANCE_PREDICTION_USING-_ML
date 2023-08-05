@@ -50,7 +50,7 @@ Using SelectKBest Method:
 ![image](https://github.com/AnnuNITW/solar-irradiance-prediction-/assets/115100166/2e890895-877f-48bd-8240-0ca793515dd3)
 
 
-![image](https://github.com/AnnuNITW/solar-irradiance-prediction-/assets/115100166/ab46938b-71ea-4cd3-a1cf-c3972ba4de87)
+
 
 
 
