@@ -30,7 +30,7 @@ DATASET INFORMATION :
 
 
 
-DATASET CSV LINK : 
+DATASET CSV LINK : https://www.kaggle.com/code/callumdownie/hi-seas-solar-irradiance-prediction
 
 DATA WRANGLING :
 
