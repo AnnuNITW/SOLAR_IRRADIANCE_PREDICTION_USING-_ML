@@ -42,17 +42,22 @@ FEATURE SELECTION :
 Feature Selection using Correlation Matrix , Feature Selection using SelectKBest Method , Feature Selection using Extra Tree Classifier .
 We can perform Feature selection using these 3 techniques
 
-![image](https://github.com/AnnuNITW/solar-irradiance-prediction-/assets/115100166/ba960c44-3f53-45c0-8f2a-b084f38b8713)
+using correlation matrix :
+
+![image](https://github.com/AnnuNITW/SOLAR_IRRADIANCE_PREDICTION_USING-_ML/assets/115100166/436e9728-3469-47af-af7e-d37b7b610034)
 
 
 
 Using SelectKBest Method:
-![image](https://github.com/AnnuNITW/solar-irradiance-prediction-/assets/115100166/2e890895-877f-48bd-8240-0ca793515dd3)
+
+
+![image](https://github.com/AnnuNITW/SOLAR_IRRADIANCE_PREDICTION_USING-_ML/assets/115100166/cb4450f6-f674-4e6f-9211-8d34709d20f4)
 
 
 
+using Extra Tree Classifier :
 
-
+![image](https://github.com/AnnuNITW/SOLAR_IRRADIANCE_PREDICTION_USING-_ML/assets/115100166/19be86b2-43a3-4816-92fe-574c2dddbe61)
 
 
 
